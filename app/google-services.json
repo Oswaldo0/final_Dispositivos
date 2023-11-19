@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61992767533",
+    "project_id": "proyectoprogramacion-ae90e",
+    "storage_bucket": "proyectoprogramacion-ae90e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61992767533:android:db622399d48aece765e8a4",
+        "android_client_info": {
+          "package_name": "com.finalmoviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdld3u_too-OxlTnzsAsoA59l46S8_RYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61992767533:android:ab751ad215c351c965e8a4",
+        "android_client_info": {
+          "package_name": "com.programafinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdld3u_too-OxlTnzsAsoA59l46S8_RYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
